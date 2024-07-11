@@ -1,9 +1,9 @@
 # arduino with Sideways 5 oleds using a TCA9548A multiplexer
-This sketch is used for testing bitmaps to how numbers on 5 Oleds displays.
+This sketch is used for testing bitmaps numbers on 5 Oleds displays.
 This is the precursor to creating a Nixie style display. 
 ![20240709_202533](https://github.com/wanderingmoose/Arduino-Oled-TCA9548A-Nixie-Test/assets/12417916/8b09ebd7-ef6e-4196-a0da-c6270716841a)
 Like all my other repositories, I put my info here for my future knownledge. If any of this helps you, cool.
-It took me a long time get the leading zeros not to be displayed.  But Dam!!! I go it figured.
+It took me a long time get the leading zeros not to be displayed.  But Dam!!! I got it figured.
 
 
 Wiring:
@@ -11,6 +11,7 @@ TCA9548A has 8 I2C channels. Which allows for up to 8 displays.
 Display 5 is on channel 0 and display 1 is on channel 4. (Display order-5,4,3,2,1) Display 1 is the least signifigant digit. 
 
 I just have a simple analog input to test the display and show values.
+
 -
 -
 
