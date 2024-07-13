@@ -1,7 +1,7 @@
 # arduino with Sideways 5 oleds using a TCA9548A multiplexer
 This sketch is used for testing bitmaps numbers on 5 Oleds displays.
 This is the precursor to creating a Nixie style display. 
--Added files under code for AHT10 temperature sensor and a simple clock using a DS1307 RTC.
+--Added files under code for AHT10 temperature sensor and a simple clock using a DS1307 RTC.
 ![20240709_202533](https://github.com/wanderingmoose/Arduino-Oled-TCA9548A-Nixie-Test/assets/12417916/8b09ebd7-ef6e-4196-a0da-c6270716841a)
 Like all my other repositories, I put my info here for my future knownledge. If any of this helps you, cool.
 It took me a long time get the leading zeros not to be displayed.  But Dam!!! I got it figured.
