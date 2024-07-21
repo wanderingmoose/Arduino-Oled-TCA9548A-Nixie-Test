@@ -6,7 +6,7 @@ This is the precursor to creating a Nixie style display.
 Like all my other repositories, I put my info here for my future knownledge. If any of this helps you, cool.
 It took me a long time get the leading zeros not to be displayed.  But Dam!!! I got it figured.
 
-Clock:
+# Clock:
 Under code directory there are afew sketches for a clock. These sketches are the same code for sideways Oled 128x64 pixel displays, but with different bitmaps for the numbers. Fonts used are Nixieone and 7 Segement. Also ones for 128x32 Oled displays.
 Wiring:
 TCA9548A has 8 I2C channels. Which allows for up to 8 displays. 
