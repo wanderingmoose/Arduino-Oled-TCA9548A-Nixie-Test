@@ -17,7 +17,7 @@ TCA9548A has 8 I2C channels. Which allows for up to 8 displays.
 Display 5 is on channel 0 and display 1 is on channel 4. (Display order-5,4,3,2,1) Display 1 is the least signifigant digit. 
 
 # Analog simple
-###I just have a simple analog input to test the display and show values.
+### I just have a simple analog input to test the display and show values.
 # Laser Cut Oled display holder, 5 Diplays 128x64 0.96".
 ### There are two types of holders, one that just holds the displays.
 ### The other holds the displays and just shows the working area.
