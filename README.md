@@ -2,14 +2,17 @@
 This sketch is used for testing bitmaps numbers on 5 Oleds displays.
 This is the precursor to creating a Nixie style display. 
 -- Added files under code for AHT10 temperature sensor and a simple clock using a DS1307 RTC.
-### Clock using my favorite sketch that can be found under code. oled_TCA9548A_SWs_numbers_5_Clock_Works
+### Clock using my favorite sketch that can be found under code. oled_TCA9548A_SWs_numbers_5_Clock_Works or better Olded_V3_OLED_SW_Clock_AHT10_Works
 ![20240721_134510](https://github.com/user-attachments/assets/498c8c79-8433-4537-840d-a20d9c812102)
+![20240722_184140](https://github.com/user-attachments/assets/ddcfdf51-8ca6-4643-a17a-8785e928954f)
+
 ### The old bitmaps, they were smaller then what I am using now. Analog input on this one.
 ![20240709_202533](https://github.com/wanderingmoose/Arduino-Oled-TCA9548A-Nixie-Test/assets/12417916/8b09ebd7-ef6e-4196-a0da-c6270716841a)
 Like all my other repositories, I put my info here for my future knownledge. If any of this helps you, cool.
 It took me a long time get the leading zeros not to be displayed.  But Dam!!! I got it figured.
 # Clock
 ## My favorite sketch is oled_TCA9548A_SWs_numbers_5_Clock_Works.ino.
+## Now my favorite sketch is Olded_V3_OLED_SW_Clock_AHT10_Works. Enjoy. :)
 Under code directory there are afew sketches for a clock. These sketches are the same code for sideways Oled 128x64 pixel displays, but with different bitmaps for the numbers. Fonts used are Nixieone and 7 Segement. Also ones for 128x32 Oled displays.
 Wiring:
 TCA9548A has 8 I2C channels. Which allows for up to 8 displays. 
