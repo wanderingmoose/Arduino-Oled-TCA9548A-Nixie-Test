@@ -1,5 +1,5 @@
 # Arduino with Sideways 5 oleds using a TCA9548A multiplexer
-## (Updated and added in code with buttons to adjust time, also still has the AHT10 sensor.July 28, 2024)
+## (Updated and added in code with buttons to adjust time, also still has the AHT10 sensor.July 28, 2024 Version 4)
 This sketch is used for testing bitmaps numbers on 5 Oleds displays.
 This is the precursor to creating a Nixie style display. 
 -- Added files under code for AHT10 temperature sensor and a simple clock using a DS1307 RTC.
