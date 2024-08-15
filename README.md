@@ -13,6 +13,7 @@ Like all my other repositories, I put my info here for my future knownledge. If 
 It took me a long time get the leading zeros not to be displayed.  But Dam!!! I got it figured.
 # Clock
 ## My favorite sketch is oled_TCA9548A_SWs_numbers_5_Clock_Works.ino.
+## Update Olded_V4_OLED_SW_Clock_AHT10_BUT_Works is now my favorite code.
 ## Now my favorite sketch is Olded_V3_OLED_SW_Clock_AHT10_Works. Enjoy. :)
 Under code directory there are afew sketches for a clock. These sketches are the same code for sideways Oled 128x64 pixel displays, but with different bitmaps for the numbers. Fonts used are Nixieone and 7 Segement. Also ones for 128x32 Oled displays.
 Wiring:
